@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1090384569133",
+    "project_id": "kanatli-surucu",
+    "storage_bucket": "kanatli-surucu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090384569133:android:f8ee2e43e6f295e6d969a4",
+        "android_client_info": {
+          "package_name": "com.aistudio.martitagasistan.xwqzpt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzBKCabt9YirL4HAsXvvtYm3ymWLRxi2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

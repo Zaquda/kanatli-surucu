@@ -1,0 +1,6 @@
+{
+  "name": "Kanatlı Sürücü Asistanı",
+  "description": "Kanatlı sürücüler için vardiya, mesafe, yakıt sarfiyatı ve detaylı gelir-gider analiz asistanı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
